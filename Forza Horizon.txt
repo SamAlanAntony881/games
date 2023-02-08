@@ -2,4 +2,3 @@ car game
 story mode
 career mode
 multiplayer online 
-1st prize
